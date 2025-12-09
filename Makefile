@@ -1,3 +1,5 @@
+.PHONY: all clean
+
 all : report/count_report.html
 
 # count the words
